@@ -30,3 +30,8 @@ This project is an IoT-based Battery Management System developed using ESP32 and
 - Task 4: Fault-Tolerant Runtime System
 - Task 5: Cloud Telemetry Architecture
 - Task 6: Executive Battery Intelligence Dashboard
+
+- ## Project Links
+
+Wokwi Simulation:
+[](https://wokwi.com/projects/469232613507508225)
