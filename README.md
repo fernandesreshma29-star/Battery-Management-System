@@ -34,4 +34,4 @@ This project is an IoT-based Battery Management System developed using ESP32 and
 - ## Project Links
 
 Wokwi Simulation:
-[](https://wokwi.com/projects/469232613507508225)
+(https://wokwi.com/projects/469232613507508225)
